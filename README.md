@@ -7,3 +7,7 @@
 ## API
 
 [API](https://cac-tech-coach.github.io/NewsClientAPI/)
+
+## 计分表
+
+[积分表](https://coda.io/d/CAC-OPPO_dWBwjkLuEXF/_subOs)
