@@ -20,10 +20,10 @@ github repo
 
 |姓名|账号名|邮箱|
 |--|--|--|
-|何辉|||
-|黄细闽|||
-|陈桂鹏|||
-|马干宣|||
+|何辉|hehui1860||
+|黄细闽|CodingDog1024||
+|陈桂鹏|Grant1024||
+|马干宣||624955391@qq.com|
 |彭颖|||
 |黄强||527780161@qq.com|
 
@@ -34,8 +34,8 @@ github repo
 
 |姓名|账号名|邮箱|
 |--|--|--|
-|刘剑|||
-|林俞均|||
+|刘剑|joodoo||
+|林俞均|linyujun||
 |骆传炳|||
 |许灵敏|||
 |陈蓉|||
@@ -47,11 +47,11 @@ github repo
 
 |姓名|账号名|邮箱|
 |--|--|--|
-|姚伟和|||
-|罗俊民|||
-|刘雍琪|||
+|姚伟和|yaowh||
+|罗俊民|StandardChar||
+|刘雍琪|Neroliu||
 |王佳静|||
-|唐享|||
+|唐享|haiyuxuelang||
 
 # Lollipop 小组
 [github repo](https://github.com/CAC-0pp0/CACLollipop)
@@ -89,7 +89,7 @@ github repo
 |--|--|--|
 |熊平|xiongping|xingzhe19900302@gmail.com|
 |周伍润|zhouwurun|zhouwurun@qq.com|
-|吴俊逸|||
+|吴俊逸|miyatio||
 |杨译绗|||
 |曾援晰|||
 |杨思成|||
