@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "打擂积分规则"
 permalink: /scoring-rules/
 ---
