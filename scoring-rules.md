@@ -1,3 +1,7 @@
+layout: page
+title: "打擂积分规则"
+permalink: /scoring-rules/
+
 # 打擂积分规则
 
 
