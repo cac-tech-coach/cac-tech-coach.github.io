@@ -8,7 +8,7 @@ github repo
 |--|--|--|
 |覃宇|qinyu|qinyusuain@gmail.com|
 |黄俊彬|junbin1011|junbin1011@163.com|
-|毛俊|komamj||
+|毛俊|komamj||junmaokoma@gmail.com
 |王鑫|xinyer||
 
 
