@@ -1,3 +1,9 @@
+---
+layout: default
+title: "分组情况"
+permalink: /teams/
+---
+
 # 教练组
 
 github repo
