@@ -1,0 +1,28 @@
+# 教练组
+
+github repo
+[![Build Status](https://travis-ci.org/CAC-0pp0/CACOreo.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACOreo)
+[![codecov](https://codecov.io/gh/CAC-0pp0/CACOreo/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACOreo)
+
+|姓名|账号名|邮箱|
+|--|--|--|
+|覃宇|qinyu||
+|黄俊彬|||
+|毛俊|komamj||
+|王鑫|xinyer||
+
+
+# Oreo小组
+
+[github repo](https://github.com/CAC-0pp0/CACOreo)
+[![Build Status](https://travis-ci.org/CAC-0pp0/CACOreo.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACOreo)
+[![codecov](https://codecov.io/gh/CAC-0pp0/CACOreo/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACOreo)
+
+|姓名|账号名|邮箱|
+|--|--|--|
+|何辉|||
+|黄细闽|||
+|陈桂鹏|||
+|马干宣|||
+|彭颖|||
+|黄强||527780161@qq.com|
