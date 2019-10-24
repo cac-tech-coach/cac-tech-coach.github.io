@@ -17,6 +17,7 @@ github repo
 [github repo](https://github.com/CAC-0pp0/CACOreo)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACOreo.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACOreo)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACOreo/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACOreo)
+[pgy eploy](https://www.pgyer.com/GD4q)
 
 |姓名|账号名|邮箱|
 |--|--|--|
@@ -31,6 +32,7 @@ github repo
 [github repo](https://github.com/CAC-0pp0/CACNougat)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACNougat.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACNougat)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACNougat/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACNougat)
+[pgy eploy](https://www.pgyer.com/9ykK)
 
 |姓名|账号名|邮箱|
 |--|--|--|
@@ -44,6 +46,7 @@ github repo
 [github repo](https://github.com/CAC-0pp0/CACMarshmallow)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACMarshmallow.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACMarshmallow)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACMarshmallow/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACMarshmallow)
+[pgy eploy](https://www.pgyer.com/qbSY)
 
 |姓名|账号名|邮箱|
 |--|--|--|
@@ -57,6 +60,7 @@ github repo
 [github repo](https://github.com/CAC-0pp0/CACLollipop)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACLollipop.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACLollipop)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACLollipop/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACLollipop)
+[pgy eploy](https://www.pgyer.com/955w)
 
 |姓名|账号名|邮箱|
 |--|--|--|
@@ -71,6 +75,7 @@ github repo
 [github repo](https://github.com/CAC-0pp0/CACKitkat)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACKitkat.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACKitkat)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACKitkat/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACKitkat)
+[pgy eploy](https://www.pgyer.com/UFQH)
 
 |姓名|账号名|邮箱|
 |--|--|--|
@@ -84,6 +89,7 @@ github repo
 [github repo](https://github.com/CAC-0pp0/CACJellyBean)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACJellyBean.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACJellyBean)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACJellyBean/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACJellyBean)
+[pgy eploy](https://www.pgyer.com/2SL2)
 
 |姓名|账号名|邮箱|
 |--|--|--|
