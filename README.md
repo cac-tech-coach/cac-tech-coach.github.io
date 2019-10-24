@@ -1,4 +1,4 @@
-# 欢迎来到CAC 技术教练训练营
+{% include_relative teams.md %}
 
 ## 需求
 
