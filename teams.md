@@ -8,7 +8,7 @@ github repo
 |--|--|--|
 |覃宇|qinyu|qinyusuain@gmail.com|
 |黄俊彬|junbin1011|junbin1011@163.com|
-|毛俊|komamj||junmaokoma@gmail.com
+|毛俊|komamj|junmaokoma@gmail.com|
 |王鑫|xinyer||
 
 
@@ -83,7 +83,7 @@ github repo
 |李景海|||
 |马明星|||
 |王剑波|||
-|黄雨舟|||
+|黄雨舟||343454988@qq.com|
 
 # JellyBean 小组
 [github repo](https://github.com/CAC-0pp0/CACJellyBean)
