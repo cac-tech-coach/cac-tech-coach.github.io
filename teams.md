@@ -6,7 +6,7 @@ github repo
 
 |姓名|账号名|邮箱|
 |--|--|--|
-|覃宇|qinyu||
+|覃宇|qinyu|qinyusuain@gmail.com|
 |黄俊彬|||
 |毛俊|komamj||
 |王鑫|xinyer||
