@@ -1,3 +1,4 @@
+...:::[讲师介绍](coaches.md)|[练习需求](https://cac-tech-coach.github.io/NewsClientSpecs)|[练习API](https://cac-tech-coach.github.io/NewsClientAPI/)|[计分规则](scoring-rules.md)|[CI大屏]([scoring-rules.md](https://run.buildmonitor.io/)):::...
 
 # 目标
 
