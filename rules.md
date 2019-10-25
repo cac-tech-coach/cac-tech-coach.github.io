@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "练习要求"
-permalink: /rules.md/
+permalink: /rules/
 ---
 
 # 敬请期待
