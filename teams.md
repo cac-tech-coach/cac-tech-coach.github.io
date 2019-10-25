@@ -91,7 +91,7 @@ permalink: /teams/
 | 吴俊逸 | miyatio    |                           |
 | 杨译绗 | Hubertyori | 446526041@qq.com          |
 | 曾援晰 | yuanxizeng |                           |
-| 杨思成 |            |                           |
+| 杨思成 |            | 18875147391@163.com                          |
 
 [返回](./index.md)
 
