@@ -1,4 +1,4 @@
-...:::[讲师介绍](coaches.md)\|[练习需求](https://cac-tech-coach.github.io/NewsClientSpecs)\|[练习API](https://cac-tech-coach.github.io/NewsClientAPI/)\|[计分规则](scoring-rules.md)\|[CI大屏]((https://run.buildmonitor.io/)):::...
+...:::  [讲师介绍](coaches.md)\|[练习要求](rules.md)\|[练习需求](https://cac-tech-coach.github.io/NewsClientSpecs)\|[练习API](https://cac-tech-coach.github.io/NewsClientAPI/)\|[计分规则](scoring.md)\|[CI大屏]((https://run.buildmonitor.io/))\|[参考资料](references.md)  :::...
 
 # 目标
 
@@ -6,7 +6,7 @@
 
 # 小组划分
 
-参训学员组成[**6个学习小组**](teams.md)，以小组为单位，在三天的培训时间里，根据讲师所讲收的内容和布置的任务，采用正确的技术实践完成示例项目的持续演练。在培训的最后一天下午，以小组为单位展示三天所学内容在示例项目中的运用，进行PK。最终根据小组互动表现、度量数据、以及打擂展示的[**综合得分**](scoring-rules.md)确定[**最终排名**](https://coda.io/d/CAC-OPPO_dWBwjkLuEXF/_subOs)。
+参训学员组成[**6个学习小组**](teams.md)，以小组为单位，在三天的培训时间里，根据讲师所讲收的内容和布置的任务，采用正确的技术实践完成示例项目的持续演练。在培训的最后一天下午，以小组为单位展示三天所学内容在示例项目中的运用，进行PK。最终根据小组互动表现、度量数据、以及打擂展示的[**综合得分**](scoring.md)确定[**最终排名**](https://coda.io/d/CAC-OPPO_dWBwjkLuEXF/_subOs)。
 
 | 小组        | 仓库                                               | 成员                                                               | 构建                                                                                                                              | 测试覆盖率                                                                                                                               | 应用下载地址               |
 | ----------- | -------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -53,7 +53,7 @@
    - [https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/](https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/)
 2. 学习 Android 测试知识，了解可以使用的 Android 测试库，请参考：
    - [https://codelabs.developers.google.com/codelabs/android-testing](https://codelabs.developers.google.com/codelabs/android-testing)
-3. 学习 Kotlin（本次培训演示将全部使用 Koltin，[**使用 Kotlin 完成练习也能获得额外加分**](scoring-rules.md)），请参考：
+3. 学习 Kotlin（本次培训演示将全部使用 Koltin，[**使用 Kotlin 完成练习也能获得额外加分**](scoring.md)），请参考：
    - [https://kotlinlang.org/docs/reference/](https://kotlinlang.org/docs/reference/)
    - [https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 
