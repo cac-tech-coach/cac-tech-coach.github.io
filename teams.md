@@ -6,7 +6,7 @@ permalink: /teams/
 
 # Oreo小组
 
-[代码仓库](https://github.com/CAC-0pp0/CACOreo)
+[![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACOreo.svg)](https://github.com/CAC-0pp0/CACOreo)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACOreo.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACOreo)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACOreo/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACOreo)
 [应用下载链接](https://www.pgyer.com/GD4q)
@@ -21,7 +21,7 @@ permalink: /teams/
 | 黄强   |               | 527780161@qq.com |
 
 # Nougat 小组
-[代码仓库](https://github.com/CAC-0pp0/CACNougat)
+[![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACNougat.svg)](https://github.com/CAC-0pp0/CACNougat)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACNougat.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACNougat)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACNougat/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACNougat)
 [应用下载链接](https://www.pgyer.com/9ykK)
@@ -35,7 +35,7 @@ permalink: /teams/
 | 陈蓉   |          |      |
 
 # Marshmallow 小组
-[代码仓库](https://github.com/CAC-0pp0/CACMarshmallow)
+[![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACMarshmallow.svg)](https://github.com/CAC-0pp0/CACMarshmallow)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACMarshmallow.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACMarshmallow)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACMarshmallow/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACMarshmallow)
 [应用下载链接](https://www.pgyer.com/qbSY)
@@ -49,7 +49,7 @@ permalink: /teams/
 | 唐享   | haiyuxuelang |      |
 
 # Lollipop 小组
-[代码仓库](https://github.com/CAC-0pp0/CACLollipop)
+[![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACLollipop.svg)](https://github.com/CAC-0pp0/CACLollipop)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACLollipop.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACLollipop)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACLollipop/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACLollipop)
 [应用下载链接](https://www.pgyer.com/955w)
@@ -64,7 +64,7 @@ permalink: /teams/
 
 
 # Kitkat 小组
-[代码仓库](https://github.com/CAC-0pp0/CACKitkat)
+[![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACKitkat.svg)](https://github.com/CAC-0pp0/CACKitkat)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACKitkat.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACKitkat)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACKitkat/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACKitkat)
 [应用下载链接](https://www.pgyer.com/UFQH)
@@ -78,7 +78,8 @@ permalink: /teams/
 | 黄雨舟 |            | 693695638@qq.com    |
 
 # JellyBean 小组
-[代码仓库](https://github.com/CAC-0pp0/CACJellyBean)
+
+[![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACJellyBean.svg)](https://github.com/CAC-0pp0/CACJellyBean)
 [![Build Status](https://travis-ci.org/CAC-0pp0/CACJellyBean.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACJellyBean)
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACJellyBean/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACJellyBean)
 [应用下载链接](https://www.pgyer.com/2SL2)
@@ -89,7 +90,7 @@ permalink: /teams/
 | 周伍润 | zhouwurun  | zhouwurun@qq.com          |
 | 吴俊逸 | miyatio    |                           |
 | 杨译绗 | Hubertyori | 446526041@qq.com          |
-| 曾援晰 |            |                           |
+| 曾援晰 | yuanxizeng |                           |
 | 杨思成 |            |                           |
 
 [返回](./index.md)
