@@ -27,7 +27,7 @@ permalink: /references/
 
 ## Truth
 
-更易读更流畅更便利的断言（assert）库，不用记各种 macther，记住 assertThat(). 就可以了
+[https://truth.dev/](https://truth.dev/)，更易读更流畅更便利的断言（assert）库，不用记各种 macther，记住`assertThat().`就可以了
 
 app/build.gradle 依赖配置
 ```groovy
