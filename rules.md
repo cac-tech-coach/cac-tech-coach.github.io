@@ -10,7 +10,7 @@ permalink: /rules/
 
 1. 主干开发+分支发布（Github flow）
    - potetcted master branch
-   - 采用 pull request 合并代码
+   - 采用 PR 合并代码
 2. 持续集成
    - 每天每个成员（如结对，在提交记录中说明了结对的成员）都至少有一次代码提交
    - 构建失败立即响应
@@ -27,7 +27,7 @@ permalink: /rules/
    - 熟练运用 IDE 重构菜单
 7. 代码整洁
    - lint 不出错
-   - 代码坏味道少
+   - 命名有意义
    - PR 都要交叉 review
 8. 架构整洁
    - 采用 MVVM 或 MVP
@@ -39,6 +39,12 @@ permalink: /rules/
   - 每日计划会
   - 每日集体代码检视
   - 使用看板跟踪进度
+  - 快捷键用得溜
+  - 重复代码少
+  - 提交记录写得清楚
+  - Tasking 做得好
+  - 经常与教练交流，话题包括但不限于需求、架构
+
 
 # 交付要求
 

@@ -25,13 +25,74 @@ permalink: /references/
 
 # Android library 速查
 
-## RxJava
+## RxJava2
 
-// TODO
+单元测试中用到的 TestObserver 和 TestScheduler 
+```java
+TestScheduler testScheduler = new TestScheduler();
+
+TestObserver<Integer> testObserver = someIntegerObservable
+    .subscribeOn(testScheduler)
+    .observeOn(testScheduler)
+    .test();
+
+testObserver.assertNotTerminated() // not compulsory, but STRONGLY recommended
+    .assertNoErrors()
+    .assertValueCount(0);// "time" hasn't started so no value expected
+
+testScheduler.advanceTimeBy(1L, TimeUnit.SECONDS);
+testObserver.assertValueCount(1);// 1 value expected after the initial delay of 1 second
+```
+参考：[https://proandroiddev.com/rxjava-2-unit-testing-tips-207887d3f15c](https://proandroiddev.com/rxjava-2-unit-testing-tips-207887d3f15c)
+
+## RxAndroid
+
+app/build.gradle 依赖配置
+```groovy
+dependencies {
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+}
+```
 
 ## Retrofit
 
-// TODO
+app/build.gradle 依赖配置
+```groovy
+dependencies {
+    implementation 'com.squareup.retrofit2:retrofit:2.6.2'
+    // 也可以选 GSON 或 MOSHI
+    implementation 'com.squareup.retrofit2:converter-jackson:2.6.2'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.6.2'
+    
+    // 测试时可能使用的 Mock
+    testImplementation 'com.squareup.retrofit2:retrofit-mock:2.6.2'
+    testImplementation 'com.squareup.okhttp3:mockwebserver:3.12.0'
+}
+```
+
+Mock retrofit API 的示例代码
+```java
+// mock 服务
+MockWebServer mockWebServer = new MockWebServer();
+
+// 用 mock 服务构造 API
+NewsApi newsApi = new Retrofit.Builder()
+    .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
+    .addConverterFactory(JacksonConverterFactory.create())
+    .baseUrl(mockWebServer.url("/"))
+    .build()
+    .create(NewsApi.class);
+
+// mock API 调用返回的 json
+Buffer jsonBuffer = new Buffer()
+    .readFrom(new FileInputStream("src/test/resources/news_list.json"));
+mockWebServer.enqueue(
+    new MockResponse()
+        .setResponseCode(HTTP_OK)
+        .setBody(jsonBuffer)
+);
+```
+参考：[https://github.com/square/okhttp/tree/master/mockwebserver](https://github.com/square/okhttp/tree/master/mockwebserver)
 
 ## Espresso
 
@@ -39,13 +100,21 @@ Espresso cheatsheet：[https://developer.android.com/training/testing/espresso/c
 
 Espresso Koltin DSL：[https://github.com/AdevintaSpain/Barista](https://github.com/AdevintaSpain/Barista)
 
+app/build.gradle 依赖配置
+``` groovy
+dependencies {
+    androidTestImplementation 'com.schibsted.spain:barista:3.2.0'
+}
+```
+
 ```kotlin
+// 代码示例
 clickOn(R.id.button)
 clickOn(R.string.button_text)
 clickOn("Next")
 clickBack()
 
-// list related
+// 列表有关的操作和断言
 clickListItem(R.id.list, 4);
 scrollListToPosition(R.id.list, 4);
 assertListItemCount(R.id.list, 5)
