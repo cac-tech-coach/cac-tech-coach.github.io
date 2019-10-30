@@ -31,7 +31,7 @@ permalink: /teams/
 | 刘剑   | joodoo       |      |
 | 林俞均 | linyujun     |      |
 | 骆传炳 | hanyicode    |      |
-| 许灵敏 |              |      |
+| 许灵敏 |              | xulingming@oppo.com     |
 | 陈蓉   | GuDong666666 |      |
 
 # Marshmallow 小组
