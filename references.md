@@ -27,11 +27,20 @@ permalink: /references/
 
 ## RxJava
 
-// TODO
+```
+implementation "io.reactivex.rxjava2:rxjava:2.2.11"
+implementation "io.reactivex.rxjava2:rxandroid:2.1.1"
+```
+
 
 ## Retrofit
 
-// TODO
+```
+implementation "com.squareup.retrofit2:retrofit:2.6.1"
+implementation "com.squareup.retrofit2:converter-gson:2.6.1"
+implementation "com.squareup.retrofit2:adapter-rxjava:2.6.1"
+testImplementation  "com.squareup.okhttp3:mockwebserver:4.2.0"
+```
 
 ## Espresso
 
