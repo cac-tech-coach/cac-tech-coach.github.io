@@ -18,7 +18,6 @@ permalink: /teams/
 | 陈桂鹏 | Grant1024     |                   |
 | 马干宣 |               | 624955391@qq.com  |
 | 彭颖   | pengying-py   | pengying@oppo.com |
-| 黄强   |               | 527780161@qq.com  |
 
 # Nougat 小组
 [![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACNougat.svg)](https://github.com/CAC-0pp0/CACNougat)
@@ -26,13 +25,13 @@ permalink: /teams/
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACNougat/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACNougat)
 [应用下载链接](https://www.pgyer.com/9ykK)
 
-| 姓名   | 账号名       | 邮箱 |
-| ------ | ------------ | ---- |
-| 刘剑   | joodoo       |      |
-| 林俞均 | linyujun     |      |
-| 骆传炳 | hanyicode    |      |
-| 许灵敏 |              | xulingming@oppo.com     |
-| 陈蓉   | GuDong666666 |      |
+| 姓名   | 账号名       | 邮箱                |
+| ------ | ------------ | ------------------- |
+| 刘剑   | joodoo       |                     |
+| 林俞均 | linyujun     |                     |
+| 骆传炳 | hanyicode    |                     |
+| 许灵敏 |              | xulingming@oppo.com |
+| 陈蓉   | GuDong666666 |                     |
 
 # Marshmallow 小组
 [![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACMarshmallow.svg)](https://github.com/CAC-0pp0/CACMarshmallow)
@@ -40,13 +39,13 @@ permalink: /teams/
 [![codecov](https://codecov.io/gh/CAC-0pp0/CACMarshmallow/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACMarshmallow)
 [应用下载链接](https://www.pgyer.com/qbSY)
 
-| 姓名   | 账号名       | 邮箱 |
-| ------ | ------------ | ---- |
-| 姚伟和 | yaowh        |      |
-| 罗俊民 | StandardChar |      |
-| 刘雍琪 | Neroliu      |      |
-| 王佳静 |              |      |
-| 唐享   | haiyuxuelang |      |
+| 姓名   | 账号名       | 邮箱             |
+| ------ | ------------ | ---------------- |
+| 姚伟和 | yaowh        |                  |
+| 罗俊民 | StandardChar |                  |
+| 刘雍琪 | Neroliu      |                  |
+| 黄强   |              | 527780161@qq.com |
+| 唐享   | haiyuxuelang |                  |
 
 # Lollipop 小组
 [![Github Repo](https://img.shields.io/github/commit-activity/w/CAC-0pp0/CACLollipop.svg)](https://github.com/CAC-0pp0/CACLollipop)
