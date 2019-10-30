@@ -27,6 +27,12 @@ permalink: /references/
 
 ## RxJava2
 
+app/build.gradle 依赖配置
+```groovy
+dependencies {
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.11'
+}
+```
 单元测试中用到的 TestObserver 和 TestScheduler 
 ```java
 TestScheduler testScheduler = new TestScheduler();
@@ -62,11 +68,12 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.6.2'
     // 也可以选 GSON 或 MOSHI
     implementation 'com.squareup.retrofit2:converter-jackson:2.6.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.2'
     implementation 'com.squareup.retrofit2:adapter-rxjava2:2.6.2'
     
     // 测试时可能使用的 Mock
     testImplementation 'com.squareup.retrofit2:retrofit-mock:2.6.2'
-    testImplementation 'com.squareup.okhttp3:mockwebserver:3.12.0'
+    testImplementation 'com.squareup.okhttp3:mockwebserver:4.2.0'
 }
 ```
 
