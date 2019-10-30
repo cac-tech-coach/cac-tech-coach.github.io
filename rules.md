@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "练习要求"
+title: "培训要求"
 permalink: /rules/
 ---
 
