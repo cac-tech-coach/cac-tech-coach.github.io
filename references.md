@@ -9,7 +9,8 @@ permalink: /references/
 1. 主干开发+分支发布：
    - [https://trunkbaseddevelopment.com/](https://trunkbaseddevelopment.com/)
    - [https://insights.thoughtworks.cn/gitflow-consider-harmful/](https://insights.thoughtworks.cn/gitflow-consider-harmful/)
-3. 单元测试术语、模式、坏味道...：[http://xunitpatterns.com/](http://xunitpatterns.com/)、
+2. 持续集成：[https://www.infoq.cn/article/ci-theory-practice/](https://www.infoq.cn/article/ci-theory-practice/)
+3. 单元测试术语、模式、坏味道...：[http://xunitpatterns.com/](http://xunitpatterns.com/)
 4. 结对编程：
    - [https://insights.thoughtworks.cn/pair-programming/](https://insights.thoughtworks.cn/pair-programming/)
    - [https://codingstyle.cn/topics/244](https://codingstyle.cn/topics/244)

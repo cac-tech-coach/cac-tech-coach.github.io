@@ -21,7 +21,7 @@ permalink: /rules/
 5. 原子提交
    - 没有少提、多提文件
    - 每次提交之前都全量运行测试
-   - 七步提交法
+   - [七步提交法](https://static001.infoq.cn/resource/image/4c/d1/4c5d2f40c00ffd6d00b1d011108f66d1.png)
 6. 及时重构
    - 及时使用 IDE 检查代码
    - 熟练运用 IDE 重构菜单
