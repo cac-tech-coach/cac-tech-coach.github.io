@@ -23,6 +23,9 @@ permalink: /references/
 7. 重构：[https://insights.thoughtworks.cn/principles-of-refactoring/](https://insights.thoughtworks.cn/principles-of-refactoring/)
 8. 质量内建：[https://insights.thoughtworks.cn/professional/](https://insights.thoughtworks.cn/professional/)
 9. 代码覆盖率：[https://insights.thoughtworks.cn/code-coverage-2/](https://insights.thoughtworks.cn/code-coverage-2/)
+10. 单元测试技巧&规范:
+    - [https://github.com/qinyu/junit-docs/](https://github.com/qinyu/junit-docs/)
+    - [https://github.com/qinyu/junit-docs/blob/master/legacy-code.md](https://github.com/qinyu/junit-docs/blob/master/legacy-code.md)
 
 # Android library 速查
 
