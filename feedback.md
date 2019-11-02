@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /feedback/
+---
+
 # ㊗️CAC@OPPO 技术教练训练营圆满结束👏
 
 
