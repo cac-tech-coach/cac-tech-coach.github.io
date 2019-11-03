@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "计分规则"
-permalink: /scoring/
+permalink: /android/scoring/
 ---
 
 培训结束时，统计各小组的得分（互动得分+度量得分+打擂得分）进行排名。

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "参考资料"
-permalink: /references/
+permalink: /android/references/
 ---
 
 # 基础知识

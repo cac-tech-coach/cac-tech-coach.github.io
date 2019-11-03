@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "培训要求"
-permalink: /rules/
+permalink: /android/rules/
 ---
 
 # 基本规则

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "讲师介绍"
-permalink: /coaches/
+permalink: /android/coaches/
 ---
 
 **覃宇**，ThoughtWorks 首席咨询师，12 年移动开发经验，擅长移动应用的持续交付和自动化测试。合著有《代码管理核心技术及实践》，合译有《Kotlin 实战》、《Serverless 架构》、《领域驱动设计精粹》。
@@ -11,11 +11,6 @@ permalink: /coaches/
 **王鑫**，ThoughtWorks 高级咨询师，5 年移动开发经验，在移动开发领域的平台化技术、性能优化、架构设计、CI/CD方面具备丰富的经验。
 
 **毛俊**，ThoughtWorks 高级咨询师，拥有Framework到App垂直开发的经验，是敏捷实践的狂热拥护者。
-
-
-github repo
-[![Build Status](https://travis-ci.org/CAC-0pp0/CACOreo.svg?branch=master)](https://travis-ci.org/CAC-0pp0/CACOreo)
-[![codecov](https://codecov.io/gh/CAC-0pp0/CACOreo/branch/master/graph/badge.svg)](https://codecov.io/gh/CAC-0pp0/CACOreo)
 
 |姓名|账号名|邮箱|
 |--|--|--|
