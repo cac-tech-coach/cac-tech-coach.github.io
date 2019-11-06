@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Archive
+layout: default
+title: "往期文章"
+permalink: /archive/
 ---
 
 ## Blog Posts
