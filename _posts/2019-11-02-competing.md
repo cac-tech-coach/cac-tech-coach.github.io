@@ -1,6 +1,7 @@
 ---
 layout: default
 author: qinyu
+title: "CAC@OPPO技术教练训练营第二天打擂"
 ---
 
 打擂环节

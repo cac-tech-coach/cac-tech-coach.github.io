@@ -1,6 +1,7 @@
 ---
 layout: default
 author: qinyu
+title: "CAC@OPPO技术教练训练营总结"
 ---
 
 在敏捷方法论中，持续交付和质量内建是不可或缺的实践集，为期三天的 CAC@OPPO 技术教练训练营的目标就是教给大家持续交付和质量内建的基本原则、正确实践以及高效工具。
@@ -14,7 +15,7 @@ author: qinyu
 
 |                                            |                                           |                                         |
 | :----------------------------------------: | :---------------------------------------: | :-------------------------------------: |
-| ![结对编程](/assets/photos/2019-11-04/pair_programming.jpg) | ![集体代码检视](/assets/photos/2019-11-04/code_review.jpg) | ![全情投入](/assets/photos/2019-11-04/concentrating.jpg) |
+| ![结对编程](/assets/photos/2019-11-04/pair_programming.jpg) | ![代码检视](/assets/photos/2019-11-04/code_review.jpg) | ![全情投入](/assets/photos/2019-11-04/concentrating.jpg) |
 |                  结对编程                  |                 代码检视                  |                全情投入                 |
 
 
